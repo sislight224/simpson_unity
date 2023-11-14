@@ -1,0 +1,15 @@
+newmtl _m
+Kd 1 1 1
+map_Kd 15_bmp.png
+newmtl char_swatches_lit_m
+Kd 1 1 1
+map_Kd char_swatches_lit_bmp.png
+newmtl eyeball_m
+Kd 1 1 1
+map_Kd eyeball_bmp_0.png
+newmtl hole_m
+Kd 1 1 1
+map_Kd hole_bmp.png
+newmtl shoes_m
+Kd 1 1 1
+map_Kd shoes_bmp.png

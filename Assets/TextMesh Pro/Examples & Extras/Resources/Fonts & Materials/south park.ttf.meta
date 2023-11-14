@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e83d85225d6800b4cacfe53fbc5694aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - South Park
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 53592b425dda20243abcab372600ac45, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

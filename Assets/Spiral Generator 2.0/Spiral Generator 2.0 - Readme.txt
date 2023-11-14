@@ -1,0 +1,51 @@
+Spiral Generator 2.0
+
+Spiral Generator is a easy to use line renderer modifier that lets you create spiral effects straight in the editor.
+
+Features
+
+	• Easy to use LineRenderer Script
+	• Multi Spiral Script
+	• Appearance of spiral changeable in run-time
+	• Perlin Noise distortion option
+	• 16x Sample scenes
+	• 39x Spiral prefabs
+	• 9x Spiral Materials
+
+Version 2.0
+	Added Custom Editor
+	Added Editor Preview
+	Added 13 new prefabs
+	
+
+	
+Notes
+
+  •For a smooth spiral, keep depht/frequency/speed the same as height/frequency/speed
+  •Performance notes:
+		Try to keep all unused variables to 0
+		Use rotate instead of Sine Speeds if possible
+		"runOnceThenDisable" turns off the spiral generation, big performance gain (rotation and material animation still works)
+	•Creating a new spiral:
+		Use an existing prefab
+		Press play
+		Change the variables while in play mode (remember to turn off "runOnceThenDisable" before pressing play)
+		When the spiral looks like it is suppose to, drag it from Hierarchy to Project folder
+		Drag the prefab from Project to Hierarcy
+		Assign start and end targets
+		Delete the old spiral from Hierarcy if needed
+	•Creating a multi spiral:
+		Create or use a existing spiral prefab
+		Use a premade multiSpiral prefab or attach the multiSpiral script to a empty gameObject
+		Set how many spirals the multiSpiral should spawn in the "spiralWithRotationArray" 
+		Assign the spirals to each index of the array
+
+
+More information on each variable is written as comments
+
+Unluck Software
+www.chemicalbliss.com
+
+
+Thanks for purchasing this asset.
+Have fun with Unity!

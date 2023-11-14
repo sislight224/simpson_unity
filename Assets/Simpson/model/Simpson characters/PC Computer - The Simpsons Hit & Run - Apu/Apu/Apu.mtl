@@ -1,0 +1,9 @@
+newmtl apu_belt
+Kd 1 1 1
+map_Kd pants_belt_bmp.png
+newmtl char_swatches_lit_m
+Kd 1 1 1
+map_Kd char_swatches_lit_bmp.png
+newmtl eyeball_m
+Kd 1 1 1
+map_Kd eyeballA_bmp_0.png

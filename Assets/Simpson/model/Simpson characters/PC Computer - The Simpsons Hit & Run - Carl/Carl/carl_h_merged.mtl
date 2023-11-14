@@ -1,0 +1,9 @@
+newmtl carl_H_fixfuckedHead_eyeballC_m
+Kd 1 1 1
+map_Kd eyeballC_bmp_0.png
+newmtl carl_sweater_trim_m
+Kd 1 1 1
+map_Kd carl_sweater_trim_bmp.png
+newmtl char_swatches_lit_m
+Kd 1 1 1
+map_Kd char_swatches_lit_bmp.png

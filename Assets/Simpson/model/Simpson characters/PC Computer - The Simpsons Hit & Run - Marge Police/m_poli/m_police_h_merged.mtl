@@ -1,0 +1,12 @@
+newmtl fly2
+Kd 1 1 1
+map_Kd fly.bmp.png
+newmtl mar_pol_H1_char_swatches_lit_m
+Kd 1 1 1
+map_Kd char_swatches_lit.bmp.png
+newmtl mar_pol_H_Fd_shield_1_m
+Kd 1 1 1
+map_Kd shield_1.bmp.png
+newmtl marge_H_head_eyeball_m
+Kd 1 1 1
+map_Kd eyeball.bmp.0.png

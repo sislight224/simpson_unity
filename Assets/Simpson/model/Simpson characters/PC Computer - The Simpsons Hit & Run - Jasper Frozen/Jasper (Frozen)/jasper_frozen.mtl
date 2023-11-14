@@ -1,0 +1,74 @@
+# Material file for jasper_frozen.obj
+
+newmtl char_swatches_m
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd char_swatches.bmp.png
+
+newmtl char_swatches_m.001
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd char_swatches.bmp.png
+
+newmtl char_swatches_m.002
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd char_swatches.bmp.png
+
+newmtl char_swatches_m.003
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd char_swatches.bmp.png
+
+newmtl char_swatches_m.004
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd char_swatches.bmp.png
+
+newmtl char_swatches_m.005
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd char_swatches.bmp.png
+
+newmtl char_swatches_m.006
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd char_swatches.bmp.png
+
+newmtl eyeball_m
+	Ns 96
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.5 0.5 0.5
+	Ka 1.0 1.0 1.0
+	map_Kd eyeball.bmp.0.png
+
