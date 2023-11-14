@@ -1,0 +1,147 @@
+newmtl burlesque_win_m
+Kd 1 1 1
+map_Kd burlesque_win.BMP.png
+newmtl OakL_m
+Kd 1 1 1
+map_Kd OakL.bmp.png
+newmtl Grn_H_m
+Kd 1 1 1
+map_Kd Grn_H.bmp.png
+newmtl Grn_B_m
+Kd 1 1 1
+map_Kd Grn_B.bmp.png
+newmtl Pnk1_H_m
+Kd 1 1 1
+map_Kd Pnk1_H.bmp.png
+newmtl SchoolLadder_m
+Kd 1 1 1
+map_Kd SchoolLadder.bmp.png
+newmtl TreetrunkA_m
+Kd 1 1 1
+map_Kd TreetrunkA.bmp.png
+newmtl DeskA_m
+Kd 1 1 1
+map_Kd DeskA.bmp.png
+newmtl BurnsMansion_l_m
+Kd 1 1 1
+map_Kd BurnsMansion_l.bmp.png
+newmtl TreetrunkB_m
+Kd 1 1 1
+map_Kd TreetrunkB.bmp.png
+newmtl Grn_A_m
+Kd 1 1 1
+map_Kd Grn_A.bmp.png
+newmtl EverS_m
+Kd 1 1 1
+map_Kd EverS.bmp.png
+newmtl roof_F_m
+Kd 1 1 1
+map_Kd roof_F.bmp.png
+newmtl chim_A_m
+Kd 1 1 1
+map_Kd chim_A.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl rd1_norm_m
+Kd 1 1 1
+map_Kd rd1_norm.bmp.png
+newmtl opt_grass_path_m
+Kd 1 1 1
+map_Kd opt_grass_path.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl driveway_m
+Kd 1 1 1
+map_Kd driveway.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl roof_d_m
+Kd 1 1 1
+map_Kd roof_d.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.BMP.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl street_lamp_m
+Kd 1 1 1
+map_Kd street_lamp.bmp.png
+newmtl treeline_oak_m
+Kd 1 1 1
+map_Kd treeline_oak.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl chim_B_m
+Kd 1 1 1
+map_Kd chim_B.bmp.png
+newmtl chim_E_m
+Kd 1 1 1
+map_Kd chim_E.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl fence_cedar_m
+Kd 1 1 1
+map_Kd fence_cedar.bmp.png
+newmtl fence_white_m
+Kd 1 1 1
+map_Kd fence_white.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl lard_lad_m
+Kd 1 1 1
+map_Kd lard_lad.bmp.png
+newmtl opt_blue_A_m
+Kd 1 1 1
+map_Kd opt_blue_A.bmp.png
+newmtl opt_blue_B_m
+Kd 1 1 1
+map_Kd opt_blue_B.bmp.png
+newmtl opt_pink_a_m
+Kd 1 1 1
+map_Kd opt_pink_a.bmp.png
+newmtl opt_pnk1_B_m
+Kd 1 1 1
+map_Kd opt_pnk1_B.bmp.png
+newmtl opt_purp_A_m
+Kd 1 1 1
+map_Kd opt_purp_A.bmp.png
+newmtl opt_yellow_a_m
+Kd 1 1 1
+map_Kd opt_yellow_a.bmp.png
+newmtl opt_yellow_b_m
+Kd 1 1 1
+map_Kd opt_yellow_b.bmp.png
+newmtl opt_yellow_c_m
+Kd 1 1 1
+map_Kd opt_yellow_c.bmp.png
+newmtl purple_A_m
+Kd 1 1 1
+map_Kd purple_A.bmp.png
+newmtl red_roof_shingles_m
+Kd 1 1 1
+map_Kd red_roof_shingles.BMP.png
+newmtl roof_A_m
+Kd 1 1 1
+map_Kd roof_A.bmp.png
+newmtl roof_B_m
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl opt_blue_C_m
+Kd 1 1 1
+map_Kd opt_blue_C.bmp.png

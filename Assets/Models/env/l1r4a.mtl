@@ -1,0 +1,69 @@
+newmtl cobble_m
+Kd 1 1 1
+map_Kd cobble.bmp.png
+newmtl stone_brick_B_m
+Kd 1 1 1
+map_Kd stone_brick_B.bmp.png
+newmtl rd1_norm_m
+Kd 1 1 1
+map_Kd rd1_norm.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl stone_brick_C_m
+Kd 1 1 1
+map_Kd stone_brick_C.bmp.png
+newmtl Pwrplnt_grate_m
+Kd 1 1 1
+map_Kd Pwrplnt_grate.bmp.png
+newmtl Grate_m
+Kd 1 1 1
+map_Kd Grate.bmp.png
+newmtl Railing_m
+Kd 1 1 1
+map_Kd Railing.bmp.png
+newmtl Pwerplnt_core_m
+Kd 1 1 1
+map_Kd Pwerplnt_core.bmp.png
+newmtl Pwrplnt_braces_m
+Kd 1 1 1
+map_Kd Pwrplnt_braces.bmp.png
+newmtl Pwrplnt_pit_b_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_b.bmp.png
+newmtl Stone_ark_A_m
+Kd 1 1 1
+map_Kd Stone_ark_A.bmp.png
+newmtl Stone_ark_B_m
+Kd 1 1 1
+map_Kd Stone_ark_B.bmp.png
+newmtl StonecuttersA_m
+Kd 1 1 1
+map_Kd StonecuttersA.bmp.png
+newmtl StonecuttersB_m
+Kd 1 1 1
+map_Kd StonecuttersB.bmp.png
+newmtl Stonecutters_trimA_m
+Kd 1 1 1
+map_Kd Stonecutters_trimA.bmp.png
+newmtl Stonecutters_trimB_m
+Kd 1 1 1
+map_Kd Stonecutters_trimB.bmp.png
+newmtl glass_decal_m
+Kd 1 1 1
+map_Kd glass_decal.bmp.png
+newmtl stone_brick_D_m
+Kd 1 1 1
+map_Kd stone_brick_D.bmp.png
+newmtl stone_brick_m
+Kd 1 1 1
+map_Kd stone_brick.bmp.png
+newmtl stone_logo_m
+Kd 1 1 1
+map_Kd stone_logo.bmp.png
+newmtl DeskA_m
+Kd 1 1 1
+map_Kd DeskA.bmp.png
+newmtl Highrez_pipe_m
+Kd 1 1 1
+map_Kd Highrez_pipe.bmp.png

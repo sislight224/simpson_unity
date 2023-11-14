@@ -1,0 +1,189 @@
+newmtl roof_A_m
+Kd 1 1 1
+map_Kd roof_A.bmp.png
+newmtl opt_blue_C_m
+Kd 1 1 1
+map_Kd opt_blue_C.bmp.png
+newmtl roof_F_m
+Kd 1 1 1
+map_Kd roof_F.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.BMP.png
+newmtl roof_B_m
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl rd1_norm_m
+Kd 1 1 1
+map_Kd rd1_norm.bmp.png
+newmtl picnic_table_x_m
+Kd 1 1 1
+map_Kd picnic_table_x.bmp.png
+newmtl picnic_table_m
+Kd 1 1 1
+map_Kd picnic_table.bmp.png
+newmtl phone_booth_m
+Kd 1 1 1
+map_Kd phone_booth.bmp.png
+newmtl opt_pnk1_B_m
+Kd 1 1 1
+map_Kd opt_pnk1_B.bmp.png
+newmtl opt_pink_a_m
+Kd 1 1 1
+map_Kd opt_pink_a.bmp.png
+newmtl roof_d_m
+Kd 1 1 1
+map_Kd roof_d.bmp.png
+newmtl opt_blue_A_m
+Kd 1 1 1
+map_Kd opt_blue_A.bmp.png
+newmtl mailbox_big_m
+Kd 1 1 1
+map_Kd mailbox_big.bmp.png
+newmtl light_off_m
+Kd 1 1 1
+map_Kd light_off.bmp.png
+newmtl krustyPoster_m
+Kd 1 1 1
+map_Kd krustyPoster.BMP.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl glass_m
+Kd 1 1 1
+map_Kd glass.bmp.png
+newmtl fence_white_m
+Kd 1 1 1
+map_Kd fence_white.bmp.png
+newmtl fence_iron_m
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl fence_cedar_m
+Kd 1 1 1
+map_Kd fence_cedar.bmp.png
+newmtl evergreenter_m
+Kd 1 1 1
+map_Kd evergreenter.bmp.png
+newmtl driveway_m
+Kd 1 1 1
+map_Kd driveway.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl chim_E_m
+Kd 1 1 1
+map_Kd chim_E.bmp.png
+newmtl chim_A_m
+Kd 1 1 1
+map_Kd chim_A.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl air_cond_m
+Kd 1 1 1
+map_Kd air_cond.bmp.png
+newmtl TreetrunkB_m
+Kd 1 1 1
+map_Kd TreetrunkB.bmp.png
+newmtl TVantenna_m
+Kd 1 1 1
+map_Kd TVantenna.bmp.png
+newmtl Simpson_house_roof_m
+Kd 1 1 1
+map_Kd Simpson_house_roof.bmp.png
+newmtl Simpson_house_H_m
+Kd 1 1 1
+map_Kd Simpson_house_H.bmp.png
+newmtl Simpson_house_A_m
+Kd 1 1 1
+map_Kd Simpson_house_A.bmp.png
+newmtl Simpson_house_A1_m
+Kd 1 1 1
+map_Kd Simpson_house_A1.bmp.png
+newmtl Pnk1_H_m
+Kd 1 1 1
+map_Kd Pnk1_H.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl Grn_D_m
+Kd 1 1 1
+map_Kd Grn_D.bmp.png
+newmtl Grn_B_m
+Kd 1 1 1
+map_Kd Grn_B.bmp.png
+newmtl Grn_A_m
+Kd 1 1 1
+map_Kd Grn_A.bmp.png
+newmtl Flandershouse_H_m
+Kd 1 1 1
+map_Kd Flandershouse_H.bmp.png
+newmtl Flandershouse_G_m
+Kd 1 1 1
+map_Kd Flandershouse_G.bmp.png
+newmtl Flandershouse_D_m
+Kd 1 1 1
+map_Kd Flandershouse_D.bmp.png
+newmtl Flandershouse_C_m
+Kd 1 1 1
+map_Kd Flandershouse_C.bmp.png
+newmtl Flandershouse_A_m
+Kd 1 1 1
+map_Kd Flandershouse_A.bmp.png
+newmtl DeskA_m
+Kd 1 1 1
+map_Kd DeskA.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl opt_grass_path_m
+Kd 1 1 1
+map_Kd opt_grass_path.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl street_lamp_m
+Kd 1 1 1
+map_Kd street_lamp.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl welcomemat_m
+Kd 1 1 1
+map_Kd welcomemat.bmp.png
+newmtl wiggum_A_m
+Kd 1 1 1
+map_Kd wiggum_A.bmp.png
+newmtl wiggum_B_m
+Kd 1 1 1
+map_Kd wiggum_B.bmp.png
+newmtl wiggum_C_m
+Kd 1 1 1
+map_Kd wiggum_C.bmp.png
+newmtl wiggum_D_m
+Kd 1 1 1
+map_Kd wiggum_D.bmp.png
+newmtl wiggum_F_m
+Kd 1 1 1
+map_Kd wiggum_F.bmp.png
+newmtl Pnk1_A_m
+Kd 1 1 1
+map_Kd Pnk1_A.bmp.png
+newmtl OakL_m
+Kd 1 1 1
+map_Kd OakL.bmp.png
+newmtl Grn_H_m
+Kd 1 1 1
+map_Kd Grn_H.bmp.png

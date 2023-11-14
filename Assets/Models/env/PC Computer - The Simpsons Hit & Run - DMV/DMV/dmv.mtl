@@ -1,0 +1,102 @@
+newmtl int_dmv_tiles_m
+Kd 1 1 1
+map_Kd int_dmv_tiles.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl welcomemat_m
+Kd 1 1 1
+map_Kd welcomemat.bmp.png
+newmtl int_obv_dome_m
+Kd 1 1 1
+map_Kd int_obv_dome.bmp.png
+newmtl int_dmv_wddark_m
+Kd 1 1 1
+map_Kd int_dmv_wddark.bmp.png
+newmtl int_dmv_wallint_m
+Kd 1 1 1
+map_Kd int_dmv_wallint.bmp.png
+newmtl int_dmv_velvetrope_m
+Kd 1 1 1
+map_Kd int_dmv_velvetrope.bmp.png
+newmtl int_dmv_sign2_m
+Kd 1 1 1
+map_Kd int_dmv_sign2.bmp.png
+newmtl int_dmv_sign1_m
+Kd 1 1 1
+map_Kd int_dmv_sign1.bmp.png
+newmtl int_dmv_photo_D_m
+Kd 1 1 1
+map_Kd int_dmv_photo_D.bmp.png
+newmtl int_dmv_photo_C_m
+Kd 1 1 1
+map_Kd int_dmv_photo_C.bmp.png
+newmtl int_dmv_photo_B_m
+Kd 1 1 1
+map_Kd int_dmv_photo_B.bmp.png
+newmtl int_dmv_photo_A_m
+Kd 1 1 1
+map_Kd int_dmv_photo_A.bmp.png
+newmtl int_dmv_misc_m
+Kd 1 1 1
+map_Kd int_dmv_misc.bmp.png
+newmtl int_dmv_map_m
+Kd 1 1 1
+map_Kd int_dmv_map.bmp.png
+newmtl int_dmv_light_m
+Kd 1 1 1
+map_Kd int_dmv_light.bmp.png
+newmtl int_dmv_exit_m
+Kd 1 1 1
+map_Kd int_dmv_exit.bmp.png
+newmtl int_dmv_door_m
+Kd 1 1 1
+map_Kd int_dmv_door.bmp.png
+newmtl int_dmv_decalsquare_m
+Kd 1 1 1
+map_Kd int_dmv_decalsquare.bmp.png
+newmtl int_dmv_decalhilight_m
+Kd 1 1 1
+map_Kd int_dmv_decalhilight.bmp.png
+newmtl int_dmv_counter_m
+Kd 1 1 1
+map_Kd int_dmv_counter.bmp.png
+newmtl int_dmv_celing_m
+Kd 1 1 1
+map_Kd int_dmv_celing.bmp.png
+newmtl int_dmv_buswindow_m
+Kd 1 1 1
+map_Kd int_dmv_buswindow.bmp.png
+newmtl int_dmv_buswheel_m
+Kd 1 1 1
+map_Kd int_dmv_buswheel.bmp.png
+newmtl int_dmv_busstop_m
+Kd 1 1 1
+map_Kd int_dmv_busstop.bmp.png
+newmtl int_dmv_busside_m
+Kd 1 1 1
+map_Kd int_dmv_busside.bmp.png
+newmtl int_dmv_buslabel_m
+Kd 1 1 1
+map_Kd int_dmv_buslabel.bmp.png
+newmtl int_dmv_bushood_m
+Kd 1 1 1
+map_Kd int_dmv_bushood.bmp.png
+newmtl int_dmv_busfront_m
+Kd 1 1 1
+map_Kd int_dmv_busfront.bmp.png
+newmtl int_dmv_busengine_m
+Kd 1 1 1
+map_Kd int_dmv_busengine.bmp.png
+newmtl int_dmv_busbumper_m
+Kd 1 1 1
+map_Kd int_dmv_busbumper.bmp.png
+newmtl int_dmv_brickred_m
+Kd 1 1 1
+map_Kd int_dmv_brickred.bmp.png
+newmtl int_dmv_background_m
+Kd 1 1 1
+map_Kd int_dmv_background.bmp.png
+newmtl char_swatches_m1
+Kd 1 1 1
+map_Kd char_swatches.bmp.png

@@ -1,0 +1,231 @@
+newmtl School_prisonwin_m
+Kd 1 1 1
+map_Kd School_prisonwin.bmp.png
+newmtl School_prison_m
+Kd 1 1 1
+map_Kd School_prison.bmp.png
+newmtl SchoolWindowSmall_m
+Kd 1 1 1
+map_Kd SchoolWindowSmall.bmp.png
+newmtl SchoolWindowB_m
+Kd 1 1 1
+map_Kd SchoolWindowB.bmp.png
+newmtl SchoolWindowA_m
+Kd 1 1 1
+map_Kd SchoolWindowA.bmp.png
+newmtl TreetrunkB_m
+Kd 1 1 1
+map_Kd TreetrunkB.bmp.png
+newmtl SchoolWallC_m
+Kd 1 1 1
+map_Kd SchoolWallC.bmp.png
+newmtl SchoolWallA_m
+Kd 1 1 1
+map_Kd SchoolWallA.bmp.png
+newmtl SchoolLadder_m
+Kd 1 1 1
+map_Kd SchoolLadder.bmp.png
+newmtl SchoolDoor_m
+Kd 1 1 1
+map_Kd SchoolDoor.bmp.png
+newmtl SchoolBackDoor_m
+Kd 1 1 1
+map_Kd SchoolBackDoor.bmp.png
+newmtl Metalpole_m
+Kd 1 1 1
+map_Kd Metalpole.bmp.png
+newmtl LibraryWall_m
+Kd 1 1 1
+map_Kd LibraryWall.bmp.png
+newmtl LibraryWallC_m
+Kd 1 1 1
+map_Kd LibraryWallC.bmp.png
+newmtl LibrarySign_m
+Kd 1 1 1
+map_Kd LibrarySign.bmp.png
+newmtl GrocerySign_m1
+Kd 1 1 1
+map_Kd GrocerySign.bmp.png
+newmtl GrocerySign_m
+Kd 1 1 1
+map_Kd GrocerySign.bmp.png
+newmtl GroceryExit_m
+Kd 1 1 1
+map_Kd GroceryExit.bmp.png
+newmtl GroceryBrickMolding_m1
+Kd 1 1 1
+map_Kd GroceryBrickMolding.bmp.png
+newmtl GroceryBrickMolding_m
+Kd 1 1 1
+map_Kd GroceryBrickMolding.bmp.png
+newmtl DeliNewsSign_m
+Kd 1 1 1
+map_Kd DeliNewsSign.bmp.png
+newmtl ComCentreSign_m
+Kd 1 1 1
+map_Kd ComCentreSign.bmp.1.png
+newmtl WiiliesShackWindow_m
+Kd 1 1 1
+map_Kd WiiliesShackWindow.bmp.png
+newmtl WiiliesShackDoor_m
+Kd 1 1 1
+map_Kd WiiliesShackDoor.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl rd1_norm_m
+Kd 1 1 1
+map_Kd rd1_norm.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl grassC_m3
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl driveway_dirt_m
+Kd 1 1 1
+map_Kd driveway_dirt.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl School_salt_m
+Kd 1 1 1
+map_Kd School_salt.bmp.png
+newmtl bus_SIDEa_m
+Kd 1 1 1
+map_Kd bus_SIDEa.bmp.png
+newmtl bus_frontA_m
+Kd 1 1 1
+map_Kd bus_frontA.bmp.png
+newmtl bus_windowA_m
+Kd 1 1 1
+map_Kd bus_windowA.bmp.png
+newmtl bus_yel_m
+Kd 1 1 1
+map_Kd bus_yel.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl com_brick_a_m
+Kd 1 1 1
+map_Kd com_brick_a.bmp.png
+newmtl com_brick_b_m
+Kd 1 1 1
+map_Kd com_brick_b.bmp.png
+newmtl com_brick_c_m
+Kd 1 1 1
+map_Kd com_brick_c.bmp.png
+newmtl com_brick_d_m
+Kd 1 1 1
+map_Kd com_brick_d.bmp.png
+newmtl com_deco_a_m
+Kd 1 1 1
+map_Kd com_deco_a.bmp.png
+newmtl com_deco_b_m
+Kd 1 1 1
+map_Kd com_deco_b.bmp.png
+newmtl com_deco_c_m
+Kd 1 1 1
+map_Kd com_deco_c.bmp.png
+newmtl com_deco_d_m
+Kd 1 1 1
+map_Kd com_deco_d.bmp.png
+newmtl com_stucco_a_m
+Kd 1 1 1
+map_Kd com_stucco_a.bmp.png
+newmtl com_stucco_b_m
+Kd 1 1 1
+map_Kd com_stucco_b.bmp.png
+newmtl com_stucco_c_m
+Kd 1 1 1
+map_Kd com_stucco_c.bmp.png
+newmtl com_stucco_d_m
+Kd 1 1 1
+map_Kd com_stucco_d.bmp.png
+newmtl dumpster_m
+Kd 1 1 1
+map_Kd dumpster.bmp.png
+newmtl elementarySign_m
+Kd 1 1 1
+map_Kd elementarySign.bmp.png
+newmtl elemsign_m
+Kd 1 1 1
+map_Kd elemsign.bmp.1.png
+newmtl fence_cedar_m
+Kd 1 1 1
+map_Kd fence_cedar.bmp.png
+newmtl flag_m
+Kd 1 1 1
+map_Kd flag.bmp.png
+newmtl glass_day_m
+Kd 1 1 1
+map_Kd glass_day.bmp.png
+newmtl grassC_m2
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl gry_found_drk_wrm_m1
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl kudd_m
+Kd 1 1 1
+map_Kd kudd.bmp.png
+newmtl rock_tan_top_m1
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl roof_A_m
+Kd 1 1 1
+map_Kd roof_A.bmp.png
+newmtl roof_B_m
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl roof_B_m1
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl roof_D_m
+Kd 1 1 1
+map_Kd roof_D.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.BMP.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl treeline_oak_m
+Kd 1 1 1
+map_Kd treeline_oak.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl watertower_m
+Kd 1 1 1
+map_Kd watertower.bmp.png

@@ -1,0 +1,117 @@
+newmtl tomacco_m
+Kd 1 1 1
+map_Kd tomacco.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl treeline_oak_m
+Kd 1 1 1
+map_Kd treeline_oak.bmp.png
+newmtl toilet_m
+Kd 1 1 1
+map_Kd toilet.bmp.png
+newmtl tirefire_m
+Kd 1 1 1
+map_Kd tirefire.bmp.png
+newmtl tele_wire_m
+Kd 1 1 1
+map_Kd tele_wire.bmp.png
+newmtl tele_pole_m
+Kd 1 1 1
+map_Kd tele_pole.bmp.png
+newmtl street_lamp_m
+Kd 1 1 1
+map_Kd street_lamp.bmp.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl sidewlkA_m
+Kd 1 1 1
+map_Kd sidewlkA.bmp.png
+newmtl red_barn_m
+Kd 1 1 1
+map_Kd red_barn.bmp.png
+newmtl rd2_country_m
+Kd 1 1 1
+map_Kd rd2_country.BMP.png
+newmtl hay_bail_m
+Kd 1 1 1
+map_Kd hay_bail.bmp.png
+newmtl gry_wood_rail_m
+Kd 1 1 1
+map_Kd gry_wood_rail.bmp.png
+newmtl gry_step_smalll_m
+Kd 1 1 1
+map_Kd gry_step_smalll.bmp.png
+newmtl gry_corr_metal_m
+Kd 1 1 1
+map_Kd gry_corr_metal.bmp.png
+newmtl green_shingle_old_m
+Kd 1 1 1
+map_Kd green_shingle_old.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.BMP.png
+newmtl field_m
+Kd 1 1 1
+map_Kd field.bmp.png
+newmtl fence_wood_b_m
+Kd 1 1 1
+map_Kd fence_wood_b.bmp.png
+newmtl fence_white_m
+Kd 1 1 1
+map_Kd fence_white.bmp.png
+newmtl fence_barbwire_m
+Kd 1 1 1
+map_Kd fence_barbwire.bmp.png
+newmtl driveway_dirt_m
+Kd 1 1 1
+map_Kd driveway_dirt.BMP.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl Pwrplnt_pit_f_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_f.bmp.png
+newmtl Pwrplnt_pit_e_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_e.bmp.png
+newmtl Pwrplnt_pit_b_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_b.bmp.png
+newmtl Pwrplnt_pit_a_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_a.bmp.png
+newmtl Green_wrhse_B_m
+Kd 1 1 1
+map_Kd Green_wrhse_B.bmp.png
+newmtl Blue_siding_dirty_D_m
+Kd 1 1 1
+map_Kd Blue_siding_dirty_D.bmp.png
+newmtl Blue_siding_dirty_B_m
+Kd 1 1 1
+map_Kd Blue_siding_dirty_B.bmp.png
+newmtl rd2_striped_m
+Kd 1 1 1
+map_Kd rd2_striped.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_crosswalk_country_m
+Kd 1 1 1
+map_Kd rd2_crosswalk_country.bmp.png
+newmtl ditch_m
+Kd 1 1 1
+map_Kd ditch.BMP.png
+newmtl TireFire_tile_m
+Kd 1 1 1
+map_Kd TireFire_tile.bmp.png
+newmtl cowhead_m
+Kd 1 1 1
+map_Kd cowhead.bmp.png

@@ -1,0 +1,12 @@
+newmtl armband_m
+Kd 1 1 1
+map_Kd armband.bmp.png
+newmtl button_m
+Kd 1 1 1
+map_Kd button.bmp.png
+newmtl char_swatches_lit_m
+Kd 1 1 1
+map_Kd char_swatches_lit.bmp.png
+newmtl eyeball_m
+Kd 1 1 1
+map_Kd eyeballA.bmp.0.png

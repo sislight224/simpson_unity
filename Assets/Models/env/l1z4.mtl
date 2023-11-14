@@ -1,0 +1,201 @@
+newmtl chain_m
+Kd 1 1 1
+map_Kd chain.bmp.png
+newmtl bb_sign_m
+Kd 1 1 1
+map_Kd bb_sign.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl StonecutterslodgeWall_m
+Kd 1 1 1
+map_Kd StonecutterslodgeWall.bmp.png
+newmtl StonecutterslodgeWallC_m
+Kd 1 1 1
+map_Kd StonecutterslodgeWallC.bmp.png
+newmtl StonecutterslodgeWallA_m
+Kd 1 1 1
+map_Kd StonecutterslodgeWallA.bmp.png
+newmtl StonecutterslodgeTopWindow_m
+Kd 1 1 1
+map_Kd StonecutterslodgeTopWindow.bmp.png
+newmtl StonecutterslodgeSideDoor_m
+Kd 1 1 1
+map_Kd StonecutterslodgeSideDoor.bmp.png
+newmtl StonecutterslodgeRoof_m
+Kd 1 1 1
+map_Kd StonecutterslodgeRoof.bmp.png
+newmtl StonecutterslodgeDoor_m
+Kd 1 1 1
+map_Kd StonecutterslodgeDoor.bmp.png
+newmtl QuimbyEstatesWindow_m
+Kd 1 1 1
+map_Kd QuimbyEstatesWindow.bmp.png
+newmtl QuimbyEstatesWallB_m
+Kd 1 1 1
+map_Kd QuimbyEstatesWallB.bmp.png
+newmtl QuimbyEstatesWallA_m
+Kd 1 1 1
+map_Kd QuimbyEstatesWallA.bmp.png
+newmtl QuimbyEstatesSideDoor_m
+Kd 1 1 1
+map_Kd QuimbyEstatesSideDoor.bmp.png
+newmtl QuimbyEstatesFrontDoor_m
+Kd 1 1 1
+map_Kd QuimbyEstatesFrontDoor.bmp.png
+newmtl QuimbyEstatesFenceA_m
+Kd 1 1 1
+map_Kd QuimbyEstatesFenceA.bmp.png
+newmtl MalibyStacyWindow_m
+Kd 1 1 1
+map_Kd MalibyStacyWindow.bmp.png
+newmtl MalibyStacyWall_m
+Kd 1 1 1
+map_Kd MalibyStacyWall.bmp.png
+newmtl MalibyStacyWallE_m
+Kd 1 1 1
+map_Kd MalibyStacyWallE.bmp.png
+newmtl MalibyStacyWallC_m
+Kd 1 1 1
+map_Kd MalibyStacyWallC.bmp.png
+newmtl MalibyStacyTopDoor_m
+Kd 1 1 1
+map_Kd MalibyStacyTopDoor.bmp.png
+newmtl MalibyStacyRoof_m
+Kd 1 1 1
+map_Kd MalibyStacyRoof.bmp.png
+newmtl MalibyStacyRoofA_m
+Kd 1 1 1
+map_Kd MalibyStacyRoofA.bmp.png
+newmtl MalibyStacyDoor_m
+Kd 1 1 1
+map_Kd MalibyStacyDoor.bmp.png
+newmtl GreenBuildRoof_m
+Kd 1 1 1
+map_Kd GreenBuildRoof.bmp.png
+newmtl Burns_interior_e_m
+Kd 1 1 1
+map_Kd Burns_interior_e.bmp.png
+newmtl Burns_interior_a_m
+Kd 1 1 1
+map_Kd Burns_interior_a.bmp.png
+newmtl Burns_gate_m
+Kd 1 1 1
+map_Kd Burns_gate.bmp.png
+newmtl Burns_Chandilier_a_m
+Kd 1 1 1
+map_Kd Burns_Chandilier_a.bmp.png
+newmtl BurnsRailing_A_m
+Kd 1 1 1
+map_Kd BurnsRailing_A.bmp.png
+newmtl BurnsMansion_m_m
+Kd 1 1 1
+map_Kd BurnsMansion_m.bmp.png
+newmtl BurnsMansion_l_m
+Kd 1 1 1
+map_Kd BurnsMansion_l.bmp.png
+newmtl BurnsMansion_k_m
+Kd 1 1 1
+map_Kd BurnsMansion_k.bmp.png
+newmtl BurnsMansion_j_m
+Kd 1 1 1
+map_Kd BurnsMansion_j.bmp.png
+newmtl BurnsMansion_i_m
+Kd 1 1 1
+map_Kd BurnsMansion_i.bmp.png
+newmtl BurnsMansion_h_m
+Kd 1 1 1
+map_Kd BurnsMansion_h.bmp.png
+newmtl BurnsMansion_g_m
+Kd 1 1 1
+map_Kd BurnsMansion_g.bmp.png
+newmtl BurnsMansion_f_m
+Kd 1 1 1
+map_Kd BurnsMansion_f.bmp.png
+newmtl BurnsMansion_e_m
+Kd 1 1 1
+map_Kd BurnsMansion_e.bmp.png
+newmtl BurnsMansion_door_m
+Kd 1 1 1
+map_Kd BurnsMansion_door.bmp.png
+newmtl BurnsMansion_d_m
+Kd 1 1 1
+map_Kd BurnsMansion_d.bmp.png
+newmtl BurnsMansion_c_m
+Kd 1 1 1
+map_Kd BurnsMansion_c.bmp.png
+newmtl BurnsMansion_b_m
+Kd 1 1 1
+map_Kd BurnsMansion_b.bmp.png
+newmtl BurnsMansion_a_m
+Kd 1 1 1
+map_Kd BurnsMansion_a.bmp.png
+newmtl BrownBuildRoof_m
+Kd 1 1 1
+map_Kd BrownBuildRoof.bmp.png
+newmtl char_swatches_m4
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl char_swatches_m5
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl chim_F_m
+Kd 1 1 1
+map_Kd chim_F.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl handrail_wht_m
+Kd 1 1 1
+map_Kd handrail_wht.bmp.png
+newmtl mayorquimby_m
+Kd 1 1 1
+map_Kd mayorquimby.bmp.png
+newmtl old_yellowbrick_A_m
+Kd 1 1 1
+map_Kd old_yellowbrick_A.bmp.png
+newmtl old_yellowbrick_B_m
+Kd 1 1 1
+map_Kd old_yellowbrick_B.bmp.png
+newmtl old_yellowbrick_C_m
+Kd 1 1 1
+map_Kd old_yellowbrick_C.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.bmp.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl steps_wht_m
+Kd 1 1 1
+map_Kd steps_wht.bmp.png
+newmtl stone_cutter_logo_m
+Kd 1 1 1
+map_Kd stone_cutter_logo.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl z5_pot_m
+Kd 1 1 1
+map_Kd z5_pot.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png

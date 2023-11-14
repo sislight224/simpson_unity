@@ -1,0 +1,12 @@
+newmtl char_swatches_lit_m
+Kd 1 1 1
+map_Kd char_swatches_lit_bmp.png
+newmtl clothes_P_m
+Kd 1 1 1
+map_Kd clothes_P_bmp.png
+newmtl clothes_S_m
+Kd 1 1 1
+map_Kd clothes_S_bmp.png
+newmtl eyeball_m
+Kd 1 1 1
+map_Kd eyeball_bmp_0.png

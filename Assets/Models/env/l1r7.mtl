@@ -1,0 +1,204 @@
+newmtl opt_pnk1_B_m
+Kd 1 1 1
+map_Kd opt_pnk1_B.bmp.png
+newmtl gravestone_B_light_m
+Kd 1 1 1
+map_Kd gravestone_B_light.bmp.png
+newmtl green_brick_A_m
+Kd 1 1 1
+map_Kd green_brick_A.bmp.png
+newmtl gry_found_drk_cool_m
+Kd 1 1 1
+map_Kd gry_found_drk_cool.bmp.png
+newmtl hedge_thorns_m
+Kd 1 1 1
+map_Kd hedge_thorns.bmp.png
+newmtl krust_backdoor_m
+Kd 1 1 1
+map_Kd krust_backdoor.bmp.png
+newmtl krust_wall_m
+Kd 1 1 1
+map_Kd krust_wall.bmp.png
+newmtl letter_grid_m
+Kd 1 1 1
+map_Kd letter_grid.bmp.png
+newmtl mayorquimby_m
+Kd 1 1 1
+map_Kd mayorquimby.bmp.png
+newmtl newsign_m
+Kd 1 1 1
+map_Kd newsign.bmp.png
+newmtl opt_blue_A_m
+Kd 1 1 1
+map_Kd opt_blue_A.bmp.png
+newmtl opt_blue_B_m
+Kd 1 1 1
+map_Kd opt_blue_B.bmp.png
+newmtl opt_blue_C_m
+Kd 1 1 1
+map_Kd opt_blue_C.bmp.png
+newmtl opt_pink_a_m
+Kd 1 1 1
+map_Kd opt_pink_a.bmp.png
+newmtl glowwindow_H_m
+Kd 1 1 1
+map_Kd glowwindow_H.bmp.png
+newmtl opt_purp_A_m
+Kd 1 1 1
+map_Kd opt_purp_A.bmp.png
+newmtl opt_yellow_a_m
+Kd 1 1 1
+map_Kd opt_yellow_a.bmp.png
+newmtl opt_yellow_b_m
+Kd 1 1 1
+map_Kd opt_yellow_b.bmp.png
+newmtl opt_yellow_c_m
+Kd 1 1 1
+map_Kd opt_yellow_c.bmp.png
+newmtl path_sticks_dark_m
+Kd 1 1 1
+map_Kd path_sticks_dark.bmp.png
+newmtl pet_cemetery_sign_m
+Kd 1 1 1
+map_Kd pet_cemetery_sign.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl river_m
+Kd 1 1 1
+map_Kd river.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl roof_F_m
+Kd 1 1 1
+map_Kd roof_F.bmp.png
+newmtl roof_d_m
+Kd 1 1 1
+map_Kd roof_d.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.BMP.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl street_sign_m
+Kd 1 1 1
+map_Kd street_sign.bmp.png
+newmtl tomb_B_m
+Kd 1 1 1
+map_Kd tomb_B.bmp.png
+newmtl tomb_C_m
+Kd 1 1 1
+map_Kd tomb_C.bmp.png
+newmtl treeline_oak_m
+Kd 1 1 1
+map_Kd treeline_oak.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl glass_m1
+Kd 1 1 1
+map_Kd glass.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl gate_fancy_m1
+Kd 1 1 1
+map_Kd gate_fancy.bmp.png
+newmtl glass_m
+Kd 1 1 1
+map_Kd glass.bmp.png
+newmtl gate_white_m
+Kd 1 1 1
+map_Kd gate_white.bmp.png
+newmtl gasStationWindow_m
+Kd 1 1 1
+map_Kd gasStationWindow.bmp.png
+newmtl gasStationDoor_m
+Kd 1 1 1
+map_Kd gasStationDoor.bmp.png
+newmtl gasStationWall_m
+Kd 1 1 1
+map_Kd gasStationWall.bmp.png
+newmtl gasStationGarage_m
+Kd 1 1 1
+map_Kd gasStationGarage.bmp.png
+newmtl fence_iron_m
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl gasPump_m
+Kd 1 1 1
+map_Kd gasPump.bmp.png
+newmtl fence_white_m
+Kd 1 1 1
+map_Kd fence_white.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl fence_cedar_m
+Kd 1 1 1
+map_Kd fence_cedar.bmp.png
+newmtl driveway_m
+Kd 1 1 1
+map_Kd driveway.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl chain_m
+Kd 1 1 1
+map_Kd chain.bmp.png
+newmtl cemetery_sign_m
+Kd 1 1 1
+map_Kd cemetery_sign.bmp.png
+newmtl OakL_m
+Kd 1 1 1
+map_Kd OakL.bmp.png
+newmtl Pnk1_H_m
+Kd 1 1 1
+map_Kd Pnk1_H.bmp.png
+newmtl Pnk1_A_m
+Kd 1 1 1
+map_Kd Pnk1_A.bmp.png
+newmtl Grn_H_m
+Kd 1 1 1
+map_Kd Grn_H.bmp.png
+newmtl LardVent_m
+Kd 1 1 1
+map_Kd LardVent.BMP.png
+newmtl Highrez_pipe_m
+Kd 1 1 1
+map_Kd Highrez_pipe.bmp.png
+newmtl Bridgerailing_m
+Kd 1 1 1
+map_Kd Bridgerailing.bmp.png
+newmtl Grn_B_m
+Kd 1 1 1
+map_Kd Grn_B.bmp.png
+newmtl Grate_m
+Kd 1 1 1
+map_Kd Grate.bmp.png
+newmtl Bridge_c_m
+Kd 1 1 1
+map_Kd Bridge_c.bmp.png
+newmtl Bridge_a_m
+Kd 1 1 1
+map_Kd Bridge_a.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd1_norm_m
+Kd 1 1 1
+map_Kd rd1_norm.bmp.png
+newmtl path_sticks_m
+Kd 1 1 1
+map_Kd path_sticks.bmp.png

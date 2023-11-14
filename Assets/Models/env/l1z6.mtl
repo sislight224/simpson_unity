@@ -1,0 +1,132 @@
+newmtl Pwrplnt_glass_m
+Kd 1 1 1
+map_Kd Pwrplnt_glass.bmp.png
+newmtl Pw_lamp_c_m
+Kd 1 1 1
+map_Kd Pw_lamp_c.bmp.png
+newmtl Pwrplnt_pit_a_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_a.bmp.png
+newmtl Pwrplnt_pit_d_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_d.bmp.png
+newmtl Pwrplnt_floor_m
+Kd 1 1 1
+map_Kd Pwrplnt_floor.bmp.png
+newmtl Pwrplnt_controls_m
+Kd 1 1 1
+map_Kd Pwrplnt_controls.bmp.png
+newmtl Pwrplnt_controls_b_m
+Kd 1 1 1
+map_Kd Pwrplnt_controls_b.bmp.png
+newmtl Pwrplnt_controldark_m
+Kd 1 1 1
+map_Kd Pwrplnt_controldark.bmp.png
+newmtl Pwrplnt_braces_m
+Kd 1 1 1
+map_Kd Pwrplnt_braces.bmp.png
+newmtl Pwerplnt_core_m
+Kd 1 1 1
+map_Kd Pwerplnt_core.bmp.png
+newmtl Pwer_homervent_m
+Kd 1 1 1
+map_Kd Pwer_homervent.bmp.png
+newmtl Pwer_homerfire_m
+Kd 1 1 1
+map_Kd Pwer_homerfire.bmp.png
+newmtl Pw_lamp_b_m
+Kd 1 1 1
+map_Kd Pw_lamp_b.bmp.png
+newmtl Pw_lamp_a_m
+Kd 1 1 1
+map_Kd Pw_lamp_a.bmp.png
+newmtl Power_window_m
+Kd 1 1 1
+map_Kd Power_window.bmp.png
+newmtl Homer_tararium_m
+Kd 1 1 1
+map_Kd Homer_tararium.bmp.png
+newmtl Homer_tararium_a_m
+Kd 1 1 1
+map_Kd Homer_tararium_a.bmp.png
+newmtl Highrez_pipe_m
+Kd 1 1 1
+map_Kd Highrez_pipe.bmp.png
+newmtl Grate_m
+Kd 1 1 1
+map_Kd Grate.bmp.png
+newmtl Pwrplnt_room_m
+Kd 1 1 1
+map_Kd Pwrplnt_room.bmp.png
+newmtl Pwrplnt_pit_e_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_e.bmp.png
+newmtl girder_m
+Kd 1 1 1
+map_Kd girder.bmp.png
+newmtl Pwrplnt_pit_c_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_c.bmp.png
+newmtl Pwrplnt_grate_m
+Kd 1 1 1
+map_Kd Pwrplnt_grate.bmp.png
+newmtl Pwrplnt_floor_grate_m
+Kd 1 1 1
+map_Kd Pwrplnt_floor_grate.bmp.png
+newmtl Pwer_homerfloor_m
+Kd 1 1 1
+map_Kd Pwer_homerfloor.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl Pwrplnt_sign_a_m
+Kd 1 1 1
+map_Kd Pwrplnt_sign_a.bmp.png
+newmtl Pwrplnt_towers_b_m
+Kd 1 1 1
+map_Kd Pwrplnt_towers_b.bmp.png
+newmtl Pwrplnt_towers_c_m
+Kd 1 1 1
+map_Kd Pwrplnt_towers_c.bmp.png
+newmtl Pwrplnt_win_m
+Kd 1 1 1
+map_Kd Pwrplnt_win.bmp.png
+newmtl Railing_m
+Kd 1 1 1
+map_Kd Railing.bmp.png
+newmtl Sewer_wall_m
+Kd 1 1 1
+map_Kd Sewer_wall.bmp.png
+newmtl barrel_m
+Kd 1 1 1
+map_Kd barrel.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl cobble_m
+Kd 1 1 1
+map_Kd cobble.bmp.png
+newmtl controlA_e_m
+Kd 1 1 1
+map_Kd controlA_e.bmp.png
+newmtl controlC_e_m
+Kd 1 1 1
+map_Kd controlC_e.bmp.png
+newmtl door_m
+Kd 1 1 1
+map_Kd door.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl top_goo_m
+Kd 1 1 1
+map_Kd top_goo.bmp.png
+newmtl Pwrplnt_pit_b_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_b.bmp.png

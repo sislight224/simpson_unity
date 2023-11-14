@@ -1,0 +1,210 @@
+newmtl Wall_brown_m
+Kd 1 1 1
+map_Kd Wall_brown.BMP.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl BenchFlat_m
+Kd 1 1 1
+map_Kd BenchFlat.bmp.png
+newmtl rd1_norm_m
+Kd 1 1 1
+map_Kd rd1_norm.bmp.png
+newmtl opt_grass_path_m
+Kd 1 1 1
+map_Kd opt_grass_path.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl driveway_m
+Kd 1 1 1
+map_Kd driveway.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl TreetrunkA_m
+Kd 1 1 1
+map_Kd TreetrunkA.bmp.png
+newmtl firetruck_ladder_m
+Kd 1 1 1
+map_Kd firetruck_ladder.bmp.png
+newmtl RoofF_m
+Kd 1 1 1
+map_Kd RoofF.bmp.png
+newmtl L7krust_roof_m
+Kd 1 1 1
+map_Kd L7krust_roof.bmp.png
+newmtl BurnsMansion_l_m
+Kd 1 1 1
+map_Kd BurnsMansion_l.bmp.png
+newmtl Dumpster_m
+Kd 1 1 1
+map_Kd Dumpster.bmp.png
+newmtl Lard_Donut_m
+Kd 1 1 1
+map_Kd Lard_Donut.bmp.png
+newmtl LardDuct_m
+Kd 1 1 1
+map_Kd LardDuct.bmp.png
+newmtl LardVent_m
+Kd 1 1 1
+map_Kd LardVent.BMP.png
+newmtl Pnk1_H_m
+Kd 1 1 1
+map_Kd Pnk1_H.bmp.png
+newmtl Lard_Wall_m
+Kd 1 1 1
+map_Kd Lard_Wall.bmp.png
+newmtl OakS_m
+Kd 1 1 1
+map_Kd OakS.bmp.png
+newmtl Ret_winA_m
+Kd 1 1 1
+map_Kd Ret_winA.bmp.png
+newmtl Ret_sIGN_m
+Kd 1 1 1
+map_Kd Ret_sIGN.bmp.png
+newmtl Ret_wallA_m
+Kd 1 1 1
+map_Kd Ret_wallA.bmp.png
+newmtl TreetrunkB_m
+Kd 1 1 1
+map_Kd TreetrunkB.bmp.png
+newmtl car_wrecked_blue_m
+Kd 1 1 1
+map_Kd car_wrecked_blue.bmp.png
+newmtl chim_A_m
+Kd 1 1 1
+map_Kd chim_A.bmp.png
+newmtl car_wrecked_yellow_m
+Kd 1 1 1
+map_Kd car_wrecked_yellow.BMP.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl fence_white_m
+Kd 1 1 1
+map_Kd fence_white.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl firetruck_sign_m
+Kd 1 1 1
+map_Kd firetruck_sign.bmp.png
+newmtl firetruck_m
+Kd 1 1 1
+map_Kd firetruck.bmp.png
+newmtl gasPump_m
+Kd 1 1 1
+map_Kd gasPump.bmp.png
+newmtl firetruck_wheel_m
+Kd 1 1 1
+map_Kd firetruck_wheel.bmp.png
+newmtl flowersA_m
+Kd 1 1 1
+map_Kd flowersA.bmp.png
+newmtl gasStationWall_m
+Kd 1 1 1
+map_Kd gasStationWall.bmp.png
+newmtl gasStationDoor_m
+Kd 1 1 1
+map_Kd gasStationDoor.bmp.png
+newmtl gasStationGarage_m
+Kd 1 1 1
+map_Kd gasStationGarage.bmp.png
+newmtl gasStationWindow_m
+Kd 1 1 1
+map_Kd gasStationWindow.bmp.png
+newmtl glass_day_m
+Kd 1 1 1
+map_Kd glass_day.bmp.png
+newmtl krust_wall_m
+Kd 1 1 1
+map_Kd krust_wall.bmp.png
+newmtl krust_frontdoor_m
+Kd 1 1 1
+map_Kd krust_frontdoor.bmp.png
+newmtl kwiki22_m
+Kd 1 1 1
+map_Kd kwiki22.bmp.png
+newmtl kwiki1_m
+Kd 1 1 1
+map_Kd kwiki1.bmp.png
+newmtl kwiki21_m
+Kd 1 1 1
+map_Kd kwiki21.bmp.png
+newmtl lard_lad_m
+Kd 1 1 1
+map_Kd lard_lad.bmp.png
+newmtl kwiki24_m
+Kd 1 1 1
+map_Kd kwiki24.bmp.png
+newmtl kwiki5_m
+Kd 1 1 1
+map_Kd kwiki5.bmp.png
+newmtl newsign_m
+Kd 1 1 1
+map_Kd newsign.bmp.png
+newmtl letter_grid_m
+Kd 1 1 1
+map_Kd letter_grid.bmp.png
+newmtl monorail_trainSide_m
+Kd 1 1 1
+map_Kd monorail_trainSide.BMP.png
+newmtl opt_blue_A_m
+Kd 1 1 1
+map_Kd opt_blue_A.bmp.png
+newmtl opt_blue_C_m
+Kd 1 1 1
+map_Kd opt_blue_C.bmp.png
+newmtl opt_purp_A_m
+Kd 1 1 1
+map_Kd opt_purp_A.bmp.png
+newmtl opt_pink_a_m
+Kd 1 1 1
+map_Kd opt_pink_a.bmp.png
+newmtl opt_pnk1_B_m
+Kd 1 1 1
+map_Kd opt_pnk1_B.bmp.png
+newmtl opt_yellow_c_m
+Kd 1 1 1
+map_Kd opt_yellow_c.bmp.png
+newmtl opt_yellow_a_m
+Kd 1 1 1
+map_Kd opt_yellow_a.bmp.png
+newmtl opt_yellow_b_m
+Kd 1 1 1
+map_Kd opt_yellow_b.bmp.png
+newmtl roof_A_m
+Kd 1 1 1
+map_Kd roof_A.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl roof_F_m
+Kd 1 1 1
+map_Kd roof_F.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.BMP.png
+newmtl vehicle_semi_m
+Kd 1 1 1
+map_Kd vehicle_semi.BMP.png
+newmtl sign_open_m
+Kd 1 1 1
+map_Kd sign_open.BMP.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png

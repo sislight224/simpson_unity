@@ -1,0 +1,102 @@
+newmtl Burns_interior_e_m
+Kd 1 1 1
+map_Kd Burns_interior_e.bmp.png
+newmtl BurnsMansion_f_m
+Kd 1 1 1
+map_Kd BurnsMansion_f.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl Burns_garden_e_m1
+Kd 1 1 1
+map_Kd Burns_garden_e.bmp.png
+newmtl Burns_interior_g_m
+Kd 1 1 1
+map_Kd Burns_interior_g.bmp.png
+newmtl Burns_library_c_m
+Kd 1 1 1
+map_Kd Burns_library_c.bmp.png
+newmtl Burns_interior_l_m
+Kd 1 1 1
+map_Kd Burns_interior_l.bmp.png
+newmtl Burns_garden_e_m
+Kd 1 1 1
+map_Kd Burns_garden_e.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl Handrailing_m
+Kd 1 1 1
+map_Kd Handrailing.bmp.png
+newmtl BurnsMansion_g_m
+Kd 1 1 1
+map_Kd BurnsMansion_g.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.bmp.png
+newmtl controlE_m
+Kd 1 1 1
+map_Kd controlE.bmp.png
+newmtl BurnsMansion_d_m
+Kd 1 1 1
+map_Kd BurnsMansion_d.bmp.png
+newmtl BurnsMansion_door_m
+Kd 1 1 1
+map_Kd BurnsMansion_door.bmp.png
+newmtl BurnsMansion_e_m
+Kd 1 1 1
+map_Kd BurnsMansion_e.bmp.png
+newmtl Burns_Chandilier_a_m
+Kd 1 1 1
+map_Kd Burns_Chandilier_a.bmp.png
+newmtl Burns_full_m
+Kd 1 1 1
+map_Kd Burns full.bmp.png
+newmtl Burns_interior_a_m
+Kd 1 1 1
+map_Kd Burns_interior_a.bmp.png
+newmtl Burns_interior_b_m
+Kd 1 1 1
+map_Kd Burns_interior_b.bmp.png
+newmtl Burns_interior_c_m
+Kd 1 1 1
+map_Kd Burns_interior_c.bmp.png
+newmtl Burns_interior_f_m
+Kd 1 1 1
+map_Kd Burns_interior_f.bmp.png
+newmtl Burns_library_a_m
+Kd 1 1 1
+map_Kd Burns_library_a.bmp.png
+newmtl Burns_library_b_m
+Kd 1 1 1
+map_Kd Burns_library_b.bmp.png
+newmtl PanelA_m
+Kd 1 1 1
+map_Kd PanelA.bmp.png
+newmtl MalibyStacyRoof_m
+Kd 1 1 1
+map_Kd MalibyStacyRoof.bmp.png
+newmtl bush_vines_m
+Kd 1 1 1
+map_Kd bush_vines.bmp.png
+newmtl armour_m
+Kd 1 1 1
+map_Kd armour.bmp.png
+newmtl burninterior_sky_m
+Kd 1 1 1
+map_Kd burninterior_sky.bmp.png
+newmtl char_swatches_m1
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl Burns_interior_k_m
+Kd 1 1 1
+map_Kd Burns_interior_k.bmp.png
+newmtl Burns_interior_i_m
+Kd 1 1 1
+map_Kd Burns_interior_i.bmp.png

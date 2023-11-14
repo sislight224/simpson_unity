@@ -1,0 +1,150 @@
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl chruchWall_m
+Kd 1 1 1
+map_Kd chruchWall.bmp.png
+newmtl chruchSign_m
+Kd 1 1 1
+map_Kd chruchSign.bmp.1.png
+newmtl churchWinStnGls_m
+Kd 1 1 1
+map_Kd churchWinStnGls.bmp.png
+newmtl com_stucco_d_m
+Kd 1 1 1
+map_Kd com_stucco_d.bmp.png
+newmtl com_brick_d_m
+Kd 1 1 1
+map_Kd com_brick_d.bmp.png
+newmtl TreetrunkA_m
+Kd 1 1 1
+map_Kd TreetrunkA.bmp.png
+newmtl QuimbyEstatesFenceA_m
+Kd 1 1 1
+map_Kd QuimbyEstatesFenceA.bmp.png
+newmtl Pnk1_H_m
+Kd 1 1 1
+map_Kd Pnk1_H.bmp.png
+newmtl casa_nova_m
+Kd 1 1 1
+map_Kd casa_nova.bmp.png
+newmtl Grn_B_m
+Kd 1 1 1
+map_Kd Grn_B.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl HalchurchWinStnGls_m
+Kd 1 1 1
+map_Kd HalchurchWinStnGls.bmp.png
+newmtl ComCentreTopWin_m
+Kd 1 1 1
+map_Kd ComCentreTopWin.bmp.png
+newmtl roof_D_m
+Kd 1 1 1
+map_Kd roof_D.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.BMP.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl glass_day_m
+Kd 1 1 1
+map_Kd glass_day.bmp.png
+newmtl dumpster_m
+Kd 1 1 1
+map_Kd dumpster.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl driveway_m
+Kd 1 1 1
+map_Kd driveway.bmp.png
+newmtl churchDr_m
+Kd 1 1 1
+map_Kd churchDr.bmp.png
+newmtl street_lamp_m
+Kd 1 1 1
+map_Kd street_lamp.bmp.png
+newmtl treeline_oak_m
+Kd 1 1 1
+map_Kd treeline_oak.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl fence_cedar_m
+Kd 1 1 1
+map_Kd fence_cedar.bmp.png
+newmtl junkpile_b_m
+Kd 1 1 1
+map_Kd junkpile_b.bmp.png
+newmtl krust_midwindow_m
+Kd 1 1 1
+map_Kd krust_midwindow.bmp.png
+newmtl k_burger_logo_m
+Kd 1 1 1
+map_Kd k_burger_logo.bmp.png
+newmtl krust_frontdoor_m
+Kd 1 1 1
+map_Kd krust_frontdoor.bmp.png
+newmtl opt_blue_A_m
+Kd 1 1 1
+map_Kd opt_blue_A.bmp.png
+newmtl krust_wall_m
+Kd 1 1 1
+map_Kd krust_wall.bmp.png
+newmtl letter_grid_m
+Kd 1 1 1
+map_Kd letter_grid.bmp.png
+newmtl opt_pnk1_B_m
+Kd 1 1 1
+map_Kd opt_pnk1_B.bmp.png
+newmtl opt_blue_C_m
+Kd 1 1 1
+map_Kd opt_blue_C.bmp.png
+newmtl opt_pink_a_m
+Kd 1 1 1
+map_Kd opt_pink_a.bmp.png
+newmtl opt_yellow_b_m
+Kd 1 1 1
+map_Kd opt_yellow_b.bmp.png
+newmtl opt_purp_A_m
+Kd 1 1 1
+map_Kd opt_purp_A.bmp.png
+newmtl opt_yellow_a_m
+Kd 1 1 1
+map_Kd opt_yellow_a.bmp.png
+newmtl roof_A_m
+Kd 1 1 1
+map_Kd roof_A.bmp.png
+newmtl opt_yellow_c_m
+Kd 1 1 1
+map_Kd opt_yellow_c.bmp.png
+newmtl roof_B_m
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl Grn_A_m
+Kd 1 1 1
+map_Kd Grn_A.bmp.png
+newmtl DeskA_m
+Kd 1 1 1
+map_Kd DeskA.bmp.png

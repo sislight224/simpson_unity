@@ -1,0 +1,177 @@
+newmtl newsign_m
+Kd 1 1 1
+map_Kd newsign.bmp.png
+newmtl goldwindows_m
+Kd 1 1 1
+map_Kd goldwindows.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl gry_found_light_cool_m
+Kd 1 1 1
+map_Kd gry_found_light_cool.bmp.png
+newmtl old_georgbrick_E_m
+Kd 1 1 1
+map_Kd old_georgbrick_E.bmp.png
+newmtl old_georgbrick_A_m
+Kd 1 1 1
+map_Kd old_georgbrick_A.bmp.png
+newmtl old_georgbrick_B_m
+Kd 1 1 1
+map_Kd old_georgbrick_B.bmp.png
+newmtl gasStationWall_m
+Kd 1 1 1
+map_Kd gasStationWall.bmp.png
+newmtl gasStationWindow_m
+Kd 1 1 1
+map_Kd gasStationWindow.bmp.png
+newmtl old_yellowbrick_A_m
+Kd 1 1 1
+map_Kd old_yellowbrick_A.bmp.png
+newmtl old_yellowbrick_B_m
+Kd 1 1 1
+map_Kd old_yellowbrick_B.bmp.png
+newmtl old_yellowbrick_C_m
+Kd 1 1 1
+map_Kd old_yellowbrick_C.bmp.png
+newmtl old_yellowbrick_D_m
+Kd 1 1 1
+map_Kd old_yellowbrick_D.bmp.png
+newmtl old_yellowbrick_E_m
+Kd 1 1 1
+map_Kd old_yellowbrick_E.bmp.png
+newmtl r3sadfe_old_georgbrick_A_m
+Kd 1 1 1
+map_Kd old_georgbrick_A.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl old_georgbrick_C_m
+Kd 1 1 1
+map_Kd old_georgbrick_C.bmp.png
+newmtl roof_A_m
+Kd 1 1 1
+map_Kd roof_A.bmp.png
+newmtl roof_D_m
+Kd 1 1 1
+map_Kd roof_D.bmp.png
+newmtl roof_gold_m
+Kd 1 1 1
+map_Kd roof_gold.bmp.png
+newmtl shrubRoun
+Kd 1 1 1
+map_Kd shrubRound.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl streetlampC_m
+Kd 1 1 1
+map_Kd streetlampC.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl gasPump_m
+Kd 1 1 1
+map_Kd gasPump.bmp.png
+newmtl roof_B_m
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl gasStationGarage_m
+Kd 1 1 1
+map_Kd gasStationGarage.bmp.png
+newmtl gasStationDoor_m
+Kd 1 1 1
+map_Kd gasStationDoor.bmp.png
+newmtl com_brick_d_m
+Kd 1 1 1
+map_Kd com_brick_d.bmp.png
+newmtl driveway_dirt_m
+Kd 1 1 1
+map_Kd driveway_dirt.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl chim_B_m
+Kd 1 1 1
+map_Kd chim_B.bmp.png
+newmtl com_brick_c_m
+Kd 1 1 1
+map_Kd com_brick_c.bmp.png
+newmtl com_brick_a_m
+Kd 1 1 1
+map_Kd com_brick_a.bmp.png
+newmtl areacode_enter_m
+Kd 1 1 1
+map_Kd areacode_enter.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl areacode_686_m1
+Kd 1 1 1
+map_Kd areacode_686.bmp.png
+newmtl areacode_base_m1
+Kd 1 1 1
+map_Kd areacode_base.bmp.png
+newmtl areacode_939_m
+Kd 1 1 1
+map_Kd areacode_939.bmp.png
+newmtl ant_blue_A_m
+Kd 1 1 1
+map_Kd ant_blue_A.bmp.png
+newmtl ant_blue_C_m
+Kd 1 1 1
+map_Kd ant_blue_C.bmp.png
+newmtl ant_blue_B_m
+Kd 1 1 1
+map_Kd ant_blue_B.bmp.png
+newmtl QuimbyEstatesFenceA_m
+Kd 1 1 1
+map_Kd QuimbyEstatesFenceA.bmp.png
+newmtl air_cond_m
+Kd 1 1 1
+map_Kd air_cond.bmp.png
+newmtl QuimbyEstatesWallB_m
+Kd 1 1 1
+map_Kd QuimbyEstatesWallB.bmp.png
+newmtl Dock_railing_m
+Kd 1 1 1
+map_Kd Dock_railing.bmp.png
+newmtl Grate_m
+Kd 1 1 1
+map_Kd Grate.bmp.png
+newmtl Dumpster_m
+Kd 1 1 1
+map_Kd Dumpster.bmp.png
+newmtl Bridge_a_m
+Kd 1 1 1
+map_Kd Bridge_a.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl dock_m
+Kd 1 1 1
+map_Kd dock.bmp.png
+newmtl mayorquimby_m
+Kd 1 1 1
+map_Kd mayorquimby.bmp.png
+newmtl handrail_wht_m
+Kd 1 1 1
+map_Kd handrail_wht.bmp.png

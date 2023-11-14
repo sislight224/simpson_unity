@@ -1,0 +1,213 @@
+newmtl grey_siding_drk_E_m
+Kd 1 1 1
+map_Kd grey_siding_drk_E.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl tele_wire_m
+Kd 1 1 1
+map_Kd tele_wire.bmp.png
+newmtl purple_trailer_D_m
+Kd 1 1 1
+map_Kd purple_trailer_D.bmp.png
+newmtl purple_trailer_B_m
+Kd 1 1 1
+map_Kd purple_trailer_B.bmp.png
+newmtl path_sticks_m
+Kd 1 1 1
+map_Kd path_sticks.bmp.png
+newmtl outhouse_door_m
+Kd 1 1 1
+map_Kd outhouse_door.bmp.png
+newmtl nelsons_doormat_m
+Kd 1 1 1
+map_Kd nelsons_doormat.bmp.png
+newmtl trailer_truck_hood_m
+Kd 1 1 1
+map_Kd trailer_truck_hood.bmp.png
+newmtl trailer_truck_door_m
+Kd 1 1 1
+map_Kd trailer_truck_door.bmp.png
+newmtl gry_wood_drk_rail2_m
+Kd 1 1 1
+map_Kd gry_wood_drk_rail2.bmp.png
+newmtl gry_step_smalll_m
+Kd 1 1 1
+map_Kd gry_step_smalll.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl gry_corr_metal_m
+Kd 1 1 1
+map_Kd gry_corr_metal.bmp.png
+newmtl grey_trailer_C_m
+Kd 1 1 1
+map_Kd grey_trailer_C.bmp.png
+newmtl grey_trailer_B_m
+Kd 1 1 1
+map_Kd grey_trailer_B.bmp.png
+newmtl grey_trailer_A_m
+Kd 1 1 1
+map_Kd grey_trailer_A.bmp.png
+newmtl tele_pole_m
+Kd 1 1 1
+map_Kd tele_pole.bmp.png
+newmtl grey_siding_drk_C_m
+Kd 1 1 1
+map_Kd grey_siding_drk_C.bmp.png
+newmtl grey_siding_drk_B_m
+Kd 1 1 1
+map_Kd grey_siding_drk_B.bmp.png
+newmtl grey_siding_E_m
+Kd 1 1 1
+map_Kd grey_siding_E.bmp.png
+newmtl grey_siding_D_m
+Kd 1 1 1
+map_Kd grey_siding_D.bmp.png
+newmtl grey_siding_B_m
+Kd 1 1 1
+map_Kd grey_siding_B.bmp.png
+newmtl green_shingle_old_m
+Kd 1 1 1
+map_Kd green_shingle_old.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.BMP.png
+newmtl gate_chlink_m
+Kd 1 1 1
+map_Kd gate_chlink.bmp.png
+newmtl fence_wood_m
+Kd 1 1 1
+map_Kd fence_wood.bmp.png
+newmtl fence_white_m
+Kd 1 1 1
+map_Kd fence_white.bmp.png
+newmtl fence_barbwire_m
+Kd 1 1 1
+map_Kd fence_barbwire.bmp.png
+newmtl driveway_dirt_m
+Kd 1 1 1
+map_Kd driveway_dirt.BMP.png
+newmtl ditch_scum_m
+Kd 1 1 1
+map_Kd ditch_scum.bmp.png
+newmtl clothesline_m
+Kd 1 1 1
+map_Kd clothesline.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl car_wrecked_blue_m
+Kd 1 1 1
+map_Kd car_wrecked_blue.bmp.png
+newmtl canopy_yellow_m
+Kd 1 1 1
+map_Kd canopy_yellow.bmp.png
+newmtl canopy_blu_m
+Kd 1 1 1
+map_Kd canopy_blu.bmp.png
+newmtl blue_trailer_C_m
+Kd 1 1 1
+map_Kd blue_trailer_C.bmp.png
+newmtl blue_trailer_B_m
+Kd 1 1 1
+map_Kd blue_trailer_B.bmp.png
+newmtl TVantenna_m
+Kd 1 1 1
+map_Kd TVantenna.bmp.png
+newmtl Nelsons_roof_m
+Kd 1 1 1
+map_Kd Nelsons_roof.bmp.png
+newmtl grey_siding_drk_A_m
+Kd 1 1 1
+map_Kd grey_siding_drk_A.bmp.png
+newmtl trailer_windshield_m
+Kd 1 1 1
+map_Kd trailer_windshield.bmp.png
+newmtl Metal_roof_red_m
+Kd 1 1 1
+map_Kd Metal_roof_red.bmp.png
+newmtl Metal_roof_blue_m
+Kd 1 1 1
+map_Kd Metal_roof_blue.bmp.png
+newmtl Brown_siding_dirty_E_m
+Kd 1 1 1
+map_Kd Brown_siding_dirty_E.bmp.png
+newmtl Brown_siding_dirty_C_m
+Kd 1 1 1
+map_Kd Brown_siding_dirty_C.bmp.png
+newmtl Brown_siding_dirty_B_m
+Kd 1 1 1
+map_Kd Brown_siding_dirty_B.bmp.png
+newmtl Brown_siding_dirty_A_m
+Kd 1 1 1
+map_Kd Brown_siding_dirty_A.bmp.png
+newmtl Blue_siding_dirty_C_m
+Kd 1 1 1
+map_Kd Blue_siding_dirty_C.bmp.png
+newmtl Blue_siding_dirty_B_m
+Kd 1 1 1
+map_Kd Blue_siding_dirty_B.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_crosswalk_country_m
+Kd 1 1 1
+map_Kd rd2_crosswalk_country.bmp.png
+newmtl rd2_country_m
+Kd 1 1 1
+map_Kd rd2_country.BMP.png
+newmtl junkpile_b_m
+Kd 1 1 1
+map_Kd junkpile_b.bmp.png
+newmtl driveway_dirt_entr_m
+Kd 1 1 1
+map_Kd driveway_dirt_entr.bmp.png
+newmtl ditch_m
+Kd 1 1 1
+map_Kd ditch.BMP.png
+newmtl trailer_wheel_m
+Kd 1 1 1
+map_Kd trailer_wheel.bmp.png
+newmtl trailer_wheelwell_m
+Kd 1 1 1
+map_Kd trailer_wheelwell.bmp.png
+newmtl treeline_oak_m
+Kd 1 1 1
+map_Kd treeline_oak.bmp.png
+newmtl trailerpark_sign_m
+Kd 1 1 1
+map_Kd trailerpark_sign.bmp.png
+newmtl trailerpark_sign_m1
+Kd 1 1 1
+map_Kd trailerpark_sign.bmp.png
+newmtl washer_m
+Kd 1 1 1
+map_Kd washer.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl treeshadow_m
+Kd 1 1 1
+map_Kd treeshadow.bmp.png
+newmtl zombi_vTredA_m
+Kd 1 1 1
+map_Kd zombi_vTredA.bmp.png
+newmtl Nelsons_C_m
+Kd 1 1 1
+map_Kd Nelsons_C.bmp.png
+newmtl Nelsons_B_m
+Kd 1 1 1
+map_Kd Nelsons_B.bmp.png
+newmtl Nelsons_A_m
+Kd 1 1 1
+map_Kd Nelsons_A.bmp.png
+newmtl kudd_m
+Kd 1 1 1
+map_Kd kudd.bmp.png

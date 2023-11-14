@@ -1,0 +1,15 @@
+newmtl cDuffBackNorm_m
+Kd 1 1 1
+map_Kd cDuffBackNorm_bmp.png
+newmtl cDuffDoorDNorm_m
+Kd 1 1 1
+map_Kd cDuffDoorDNorm_bmp.png
+newmtl cDuffDoorPNorm_m
+Kd 1 1 1
+map_Kd cDuffDoorPNorm_bmp.png
+newmtl cDuffHoodNorm_m
+Kd 1 1 1
+map_Kd cDuffHoodNorm_bmp.png
+newmtl WindsheildT_m
+Kd 1 1 1
+map_Kd WindsheildT_bmp.png

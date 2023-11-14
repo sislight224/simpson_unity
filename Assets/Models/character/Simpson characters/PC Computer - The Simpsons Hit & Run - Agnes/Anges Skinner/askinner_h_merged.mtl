@@ -1,0 +1,9 @@
+newmtl char_swatches_lit_m
+Kd 1 1 1
+map_Kd char_swatches_lit_bmp.png
+newmtl eyeball_m
+Kd 1 1 1
+map_Kd eyeball_bmp_0.png
+newmtl marge_necklace_m
+Kd 1 1 1
+map_Kd marge_necklace_bmp.png
